@@ -1,0 +1,16 @@
+Batch,Process,Timetaken
+Batch1,PreSteaming,65
+Batch1,Soaking,50
+Batch1,PostSteaming,30
+Batch1,Tempering,50
+Batch1,Drying,20
+Batch2,PreSteaming,75
+Batch2,Soaking,50
+Batch2,PostSteaming,85
+Batch2,Tempering,80
+Batch2,Drying,0
+Batch3,PreSteaming,60
+Batch3,Soaking,100
+Batch3,PostSteaming,25
+Batch3,Tempering,20
+Batch3,Drying,50
