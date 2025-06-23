@@ -1,4 +1,4 @@
-Batch,Process,PreSteaming,Soaking,PostSteaming,Tempering,Drying
-Batch1,PreSteaming,65,50,30,50,20
-Batch2,PreSteaming,75,50,85,80,0
-Batch3,PreSteaming,60,100,25,20,50
+Batch,PreSteaming,Soaking,PostSteaming,Tempering,Drying
+Batch1,65,50,30,50,20
+Batch2,75,50,85,80,0
+Batch3,60,100,25,20,50
